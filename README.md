@@ -5,14 +5,15 @@ I'm a Full Stack Developer with 8 years of experience specializing in React.js a
 💻 Passionate about creating efficient and secure web applications  
 🌱 Currently working on core credit reporting systems at Equifax  
 🎓 Master of Mathematics and Statistics in Advanced Data Analytics  
+🎓 Bachelor's in Computer Science  
 
 ## 🛠️ Tech Stack
-- **Languages**: JavaScript, TypeScript  
-- **Frontend**: React.js, Angular, React Native  
+- **Languages**: HTML, CSS, JavaScript, TypeScript, DHTML, AJAX, JSON, XML  
+- **Frontend**: React.js, Angular, React Native, Vue.js, Bootstrap  
 - **Backend**: Node.js, Express.js  
-- **Cloud**: AWS (Lambda, S3, DynamoDB, API Gateway)  
-- **Databases**: MongoDB, PostgreSQL, Oracle  
-- **Tools**: Docker, Jenkins, Git, CI/CD  
+- **Cloud**: AWS (Lambda, S3, DynamoDB, API Gateway, CloudWatch)  
+- **Databases**: MongoDB, PostgreSQL, DynamoDB  
+- **Tools**: Docker, Jenkins, Git, NPM, CI/CD
 
 ## 🔭 Recent Projects
 - **Credit Reporting Platform**  
@@ -43,9 +44,12 @@ I'm a Full Stack Developer with 8 years of experience specializing in React.js a
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/upendar-reddy-alenki/)  
-- [Portfolio](https://yourportfolio.com)  
+- [Portfolio](https://github.com/Upendar31)  
 
 ## 🏆 Certifications & Achievements
 - AWS Certified Developer – Associate  
+  - **Validation Number**: a17c6e419d7e4ce6b2fc7717b90aa7dd  
+  - [Verification Link](https://cp.certmetrics.com/amazon/en/public/verify/credential)
 - MongoDB Associate Developer  
+
 
